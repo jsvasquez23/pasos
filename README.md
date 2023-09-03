@@ -1,5 +1,5 @@
 # pasos
-PASOS DESCARGAR ISO WIN 10 PRO
+PASOS DESCARGAR ISO WIN 10 PRO.
 Ver el siguiente documento en PDF. 
 https://github.com/jsvasquez23/pasos/blob/main/PASOS%20DESCARGAR%20ISO%20WIN%2010%20PRO.pdf
 
@@ -19,7 +19,7 @@ https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Spanish_x64v1.is
 ENLACE DE DESCARGA ISO WINDOWS 10 PRO 32/64 BITS.
 https://mega.nz/folder/HZMx0JRY#wUTGlLH_xbEJVl6VaeTeVQ
 
-CREAR MEMORIA USB DE ARRANQUE
+CREAR MEMORIA USB DE ARRANQUE.
 
 Rufus.
 https://rufus.ie/es/
