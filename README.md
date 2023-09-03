@@ -1,11 +1,11 @@
 # pasos
 PASOS DESCARGAR ISO WIN 10 PRO
-Ver el siguiente documento en PDF: 
+Ver el siguiente documento en PDF. 
 https://github.com/jsvasquez23/pasos/blob/main/PASOS%20DESCARGAR%20ISO%20WIN%2010%20PRO.pdf
 
-Descargar ISO Windows 10 PRO
+Descargar ISO Windows 10 PRO.
 
-Página principal de Microsoft
+Página principal de Microsoft.
 https://www.microsoft.com/en-gb/software-download
 
 Link directo Sistema Operativo WINDOWS 10 PRO en español.
@@ -16,21 +16,21 @@ https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Spanish_x32v1.is
 ISO 64bits, DESCARGA DIRECTA.
 https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Spanish_x64v1.iso?t=291d33ce-a2f5-4cc9-8df4-66634144423e&e=1693853866&h=313321eccfa99254c283f55a959abd5a63fbaa9986679fa4c02f61a30f64938e 
 
-ENLACE DE DESCARGA ISO WINDOWS 10 PRO 32/64 BITS
+ENLACE DE DESCARGA ISO WINDOWS 10 PRO 32/64 BITS.
 https://mega.nz/folder/HZMx0JRY#wUTGlLH_xbEJVl6VaeTeVQ
 
 CREAR MEMORIA USB DE ARRANQUE
 
-Rufus:
+Rufus.
 https://rufus.ie/es/
-Repositorio:
+Repositorio.
 https://github.com/pbatard/rufus
 
-Pagina Oficial Ventoy
+Pagina Oficial Ventoy.
 https://www.ventoy.net/en/index.html
 https://www.iventoy.com/en/index.html
-Repositorio:
+Repositorio.
 https://github.com/ventoy/Ventoy/releases
 
-Microsoft windows creator tool
+Microsoft windows creator tool.
 https://www.microsoft.com/en-us/software-download/windows10
