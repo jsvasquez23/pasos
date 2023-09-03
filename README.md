@@ -1,6 +1,6 @@
 # pasos
 PASOS DESCARGAR ISO WIN 10 PRO
-Ver el siguieente documento en PDF: 
+Ver el siguiente documento en PDF: https://github.com/jsvasquez23/pasos/blob/main/PASOS%20DESCARGAR%20ISO%20WIN%2010%20PRO.pdf
 Descargar ISO Windows 10 PRO
 
 Página principal de Microsoft
