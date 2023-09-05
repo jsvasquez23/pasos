@@ -19,6 +19,7 @@ https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Spanish_x64v1.is
 
 WINDOWS 11 64 BITS. 
 https://www.microsoft.com/en-gb/software-download/windows11 
+
 ISO 64bits, DESCARGA DIRECTA.
 https://software.download.prss.microsoft.com/dbazure/Win11_22H2_Spanish_x64v2.iso?t=7c3d2ca6-3cb0-4a60-a77d-ddb3ba139e5e&e=1694003974&h=56a4988e9d797d09a527f7b7434a53d14caf8957c38e53e42c58422de15411ab 
 
